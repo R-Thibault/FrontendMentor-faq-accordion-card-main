@@ -110,6 +110,7 @@ body{
   display: grid;
   grid-template-rows: 20% 80%;
   width: 85vw;
+  height: 60vh;
   background-color: white;
   border-radius: 2em;
 }
